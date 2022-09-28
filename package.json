@@ -25,8 +25,8 @@
     "bookshelf": "~0.10.0"
   },
   "devDependencies": {
-    "bookshelf": "~0.10.0",
-    "knex": "~0.11.0",
+    "bookshelf": "^1.2.0"",
+    "knex": "^0.21.2",
     "mocha": "~2.5.0",
     "mock-knex": "~0.3.0",
     "sqlite3": "~3.1.0",
